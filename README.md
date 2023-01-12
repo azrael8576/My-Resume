@@ -5,7 +5,6 @@
 
 #### MVVM & Android Jetpack 示例
 
-* [國泰銀行 CUBO 面試 Android 工程師小專案](https://github.com/azrael8576/cathaybk-recruit-android)
 * [AmazingTalker 面試 Android 工程師小專案](https://github.com/azrael8576/amazingtalker-recruit-android)
 * [復刻 Hahow 面試 ios 工程師小專案](https://github.com/azrael8576/hahow-recruit-android)
 
