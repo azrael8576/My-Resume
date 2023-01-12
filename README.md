@@ -5,7 +5,7 @@
 
 #### MVVM & Android Jetpack 示例
 
-* [AmazingTalker 面試 Android 工程師小專案](https://github.com/azrael8576/amazingtalker-recruit-android)
+* [MVVM & Android Jetpack 教師課程行事曆](https://github.com/azrael8576/amazingtalker-recruit-android)
 * [復刻 Hahow 面試 ios 工程師小專案](https://github.com/azrael8576/hahow-recruit-android)
 
 #### Kotlin 學習筆記
@@ -43,7 +43,3 @@
 ### * 備註
 #### 此處僅列出近期幾個 MVVM 專案 & 常用之 lib , 本人完整 Tech-stack 請至履歷參考
 #### 亦可點擊本人資料查看其餘專案
-
-
-##  畫面呈現
-#### 請點選上方專案連結查看
