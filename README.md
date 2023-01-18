@@ -9,13 +9,6 @@
 #### Kotlin 學習筆記
 * [【码上开学】Kotlin 課後練習題](https://github.com/azrael8576/KaixueioKotlinExercise)
 
-#### Android 自定義 View 學習筆記
-
-* [【HenCoder】Android 开发进阶: 自定义 View 1-1 绘制基础 —— 圓餅圖, 直方圖](https://github.com/azrael8576/PracticeDraw1)
-* [【HenCoder】Android 开发进阶: 自定义 View 1-2 Paint 详解](https://github.com/azrael8576/PracticeDraw2)
-
-
-
 ## Tech-stack
 
 ### Programming
